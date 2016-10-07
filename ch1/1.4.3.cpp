@@ -1,4 +1,8 @@
 // Reading unknown numbers of inputs
+// Notes:
+// 1. on Windows systems we enter an end-of-file by typing
+//    ctrl-z; on Linux or Mac, it is ctrl-d;
+
 #include <iostream>
 
 int main() {
