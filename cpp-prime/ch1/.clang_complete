@@ -1,0 +1,2 @@
+-DDEBUG
+-include ./tester.h
