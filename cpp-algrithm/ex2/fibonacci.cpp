@@ -25,7 +25,7 @@ long long FibonacciFast(long long n) {
 int main(){
   long int n = 0;
   std::cin >> n;
-  //std::cout << Fibonacci(n);
-  std::cout << FibonacciFast(n);
+  std::cout << Fibonacci(n);
+  //std::cout << FibonacciFast(n);
   return 0;
 }
